@@ -1,7 +1,7 @@
 {
-  "name": "website",
+  "name": "dsc-vast-website",
   "version": "1.0.0",
-  "description": "",
+  "description": "Website for DSC VAST",
   "main": "index.html",
   "dependencies": {
     "lite-server": "^2.4.0"
@@ -15,10 +15,15 @@
     "type": "git",
     "url": "git+https://github.com/dsc-vast/website.git"
   },
-  "author": "",
+  "author": "DSC VAST",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dsc-vast/website/issues"
   },
-  "homepage": "https://github.com/dsc-vast/website#readme"
+  "homepage": "https://github.com/dsc-vast/website#readme",
+  "keywords": [
+    "dsc",
+    "vast",
+    "website"
+  ]
 }
